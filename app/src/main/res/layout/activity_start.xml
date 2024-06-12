@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/renk_gecisi">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/list" />
+
+    <TextView
+        android:id="@+id/basİsim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="MyDoList"
+        android:textSize="30sp"
+        android:fontFamily="@font/ar_bold"
+        />
+
+    <TextView
+        android:layout_below="@+id/basİsim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:textSize="15dp"
+        android:text="@string/giris_cumlesi"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/ar_italic"/>
+
+</RelativeLayout>
+
+

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MydoList</string>
+    <string name="giris_cumlesi">Yapman gereken herşeyi yazmalısın. Yoksa unutursun.</string>
+    <string name="görev_ekle">Görev Ekle</string>
+
+    <string name="save">Kaydet</string>
+    <string name="new_task">Görev Ekle</string>
+    <string name="tasks">Tasks</string>
+</resources>

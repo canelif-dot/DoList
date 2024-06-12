@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textRenk">#AD88C6</color>
+    <color name="background">#FFE6E6</color>
+    <color name="button_arkaplan">#E1AFD1</color>
+    <color name="button_renk">#FFC96F</color>
+    <color name="btn_arka">#ACE2E1</color>
+    <color name="yeşil">#D9EDBF</color>
+    <color name="koyuMor">#7469B6</color>
+    <color name="pembe">#E78895</color>
+    <color name="mavi">#CDE8E5</color>
+</resources>
